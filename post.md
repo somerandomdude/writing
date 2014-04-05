@@ -1,4 +1,6 @@
-blog-content
-============
+---
+title: First Post
+date: 2014-04-4
+---
 
-Yo dawg
+A first post.
