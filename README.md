@@ -21,7 +21,7 @@ Epics are your intellectual passions and dearest partners. They're with you when
 
 I'm still trying to figure out the best ways to make that happen. Until then, you can [follow this Github repo](https://github.com/somerandomdude/writing/star), subscribe to the [commit history RSS feed](https://github.com/somerandomdude/writing/commits/master.atom). I'll also be tweeting out updates from [my Twitter account](https://twitter.com/somerandomdude).
 
-## Following is So Passive, Let's Do Something Together
+## Following is Passive, Let's Do This Together
 
 I'm excited about this idea because it creates the opportunity to allow a more meaningful way for writers and readers to engage. **I welcome and encourage you to submit pull requests to any/all content I create.** To be honest, the experiment fails without it.
 
