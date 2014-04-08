@@ -19,7 +19,7 @@ Epics are your intellectual passions and dearest partners. They're with you when
 
 ## Interested in Following This Experiment?
 
-I'm still trying to figure out the best ways to make that happen. Until then, you can subscribe to my [commit history RSS feed](https://github.com/somerandomdude/writing/commits/master.atom). I'll also be tweeting out updates from [my Twitter account](https://twitter.com/somerandomdude).
+I'm still trying to figure out the best ways to make that happen. Until then, you can [follow this Github repo](https://github.com/somerandomdude/writing/star), subscribe to the [commit history RSS feed](https://github.com/somerandomdude/writing/commits/master.atom). I'll also be tweeting out updates from [my Twitter account](https://twitter.com/somerandomdude).
 
 ## Following is So Passive, Let's Do Something Together
 
