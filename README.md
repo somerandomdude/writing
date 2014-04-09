@@ -1,7 +1,7 @@
 An Experiment in Writing
 =======
 
-This entire repository is very much a work in progress and represents my process of trying to make sense of ideas rattling in my head. 
+This entire repository is very much a work in progress and represents my process to make sense of ideas rattling in my head. 
 
 ## What's in This Repo?
 
