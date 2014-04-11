@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 # Introduction
+=======
+Introduction
+=======
+>>>>>>> drafts
