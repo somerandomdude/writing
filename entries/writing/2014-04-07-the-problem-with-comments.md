@@ -74,7 +74,7 @@ The online written word is the most accessible form of media for consumers to co
 ---
 
 ## Make this entry better
-The best way to discuss ideas is by improving it together. Share your thoughts by [submitting a revision]().
+The best way to discuss ideas is by improving it together. Share your thoughts by [submitting a revision](https://github.com/somerandomdude/writing/edit/master/entries/writing/2014-04-07-the-problem-with-comments.md).
 
 
 ### Further Reading
