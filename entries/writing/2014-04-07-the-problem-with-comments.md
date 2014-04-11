@@ -18,6 +18,8 @@ Tackling the subject of internet comments is far too expansive for this post. Fo
 
 Comments are a jumbled, unorganized mess *before* touching the subject of blog spam. *Anyone* can say *anything*&mdash;and the problem is that they do. There's considerable evidence that many readers do not even fully read a piece of written content [cite source]. Throw in the safe assumption that *many* of the people commenting are not fully reading the article and it makes the problem even worse.
 
+A great example of this noise comes from [NPR's April Fools joke](http://www.npr.org/2014/04/01/297690717/why-doesnt-america-read-anymore) this year. The comments of people who clearly did not read the 7 lines of content in the article are followed by the dedicated readers who end up egging on the others. Very few constructive discussions come from this system of user interation.
+
 This noise is rarely beneficial for the writer or even the reader for that sake. Why then have it be a part of the content?  
 
 **Notes:**
@@ -112,5 +114,10 @@ http://blogs.scientificamerican.com/a-blog-around-the-clock/2013/01/28/commentin
 	* Have a problem with a post? Make is better.
 	* Let's have conversations result in meaningful results.
 	* Think you can do it better? Fork it and prove it
+
+* CodePen Comments are a good thing
+	* Pen creators have control over curating their pen comments
+	* 'Be Cool' placeholder sets a standard for commenters attitude
+	* Good general community
 
 
