@@ -22,3 +22,18 @@ The challenge is determining whether something you've written is meaningful enou
 * Iconography & Information design for the web
 * Web performance
 
+## introduction
+
+We write for the moment. Today's publishing platforms focus on a journaling mode of writing. From status updates to blog posts - there's a publish date and an implied "freshness date" before the content is preserved purely for the sake of posterity. This is fine for content that is firmly set in the moment. It's fine to keep a scrapbook of snapshots. 
+
+The problem is we're also using those scrapbooks to record content of greater meaning. 
+
+Writing content which is intended to live beyond the moment requires a different process and set of tools. 
+
+What if you only publishes ten pieces of content on the web in your entire life. What if you spent the majority of your life working on them? What would that even look like? 
+
+I think a lot of bloggers are in many ways doing that, just in a very inefficient, ineffective manner. We are often talking about the same collection of subjects, ideas and opinions--they're just created as different and disconnected fragments. We're not connecting the dots or threading them into a single, coherent thread.
+
+And that's why so much of our content is a short-sided, jumbled mess. We don't spend the appropriate time to revise, amend, rethink or adjust our content after the publish date. Content is written, frozen in time and ignored.
+
+Ideas don't work that way. They continue to grow and mutate. Our content should do the same. So instead of generating a stream of new, why aren't we cultivating what we already have?
