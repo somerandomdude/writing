@@ -41,6 +41,9 @@ Opinions are like noses, everybody has one. Few have solutions. An accepted edit
 ### Let the general conversation happen elsewhere
 The behavior of "commenting" on content&mdash;including written content is increasingly migrating to social networks. This trend is real and positive. It creates a clear outlet for people not interested in contribution or direct interaction. If someone wants write an undirected gush/rant about your work, let that stay on Twitter or Facebook. Meanwhile, you can focus on making your work better.
 
+### Facebook pages is a scary place to let the comments live
+Many blogs create Facebook pages for their blog and publish their posts there. It works, but there could be some concerns about giving up content to Facebook. And Facebook makes it too easy to publish directly on the pages. And finally, as of my knowledge today, when you've reached 5000 followers, you lose control of the Facebook page, and Facebook will convert it to a public group. 
+
 ## We need new tools
 
 The online written word is the most accessible form of media for consumers to contribute to. There's a clear opportunity in this space, the tools just do not yet exist. Writing on Github is my attempt to prototype this concept on the closest tool I could find. But clearly, this approach is a square-peg-in-a-round-hole hack.
