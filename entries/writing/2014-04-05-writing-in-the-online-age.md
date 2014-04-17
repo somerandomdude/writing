@@ -1,5 +1,5 @@
 ---
-title: Writing Differently
+title: Writing in the Online Age
 date: 2014-04-05
 status: draft
 ---
