@@ -4,8 +4,19 @@ date: 2014-04-05
 status: draft
 ---
 
+* New model
+  * Entries &amp; Epics
+  * Iterative, long-term relationships with written content
+  * Collaborative, diverse and decentralized
+  * Standard, portable and tool-agnostic
+  * Collbaoration-focused reader/writer interaction
+  * Applying open-source philosophies and patterns to creation of written content
 
-# Writing for the long haul
+
+---
+
+**Notes:**
+
 
 http://snarkmarket.com/2010/4890
 
