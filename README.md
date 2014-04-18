@@ -5,7 +5,7 @@ This entire repository is very much a work in progress and represents my process
 
 ## What's in This Repo?
 
-Simply put, my writing on a collection of subjects. The blog format seems _old_ and no longer seems aligned with what the web is capable of or where it's headed. This idea has slowly grown in intensity for myself since I stumbled upon the idea [in a past blog post](http://www.adaptivepath.com/ideas/what-comes-after-sharing/). Now I'm finally going to just try to do it.
+Simply put, my writing on a collection of subjects. The blog format seems _old_ and no longer aligned with what the web is capable of or where it's headed. This idea has slowly grown in intensity for myself since I stumbled upon the idea [in a past blog post](http://www.adaptivepath.com/ideas/what-comes-after-sharing/). Now I'm finally going to just try to do it.
 
 I'll be breaking up content into two main buckets. I've named them Entries and Epics (naming is _highly_ suspect).
 
