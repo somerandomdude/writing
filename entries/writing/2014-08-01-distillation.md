@@ -10,3 +10,9 @@ status: draft
 
 * Display less content, make what you show worth everyone's time.
 * Force yourself to think critically about what is worthwhile for you to spend the time to publish and for others to consume.
+* Pendulum needs to sway back to exclusion
+
+
+# Notes
+
+* http://www.sevensevennine.com/?p=346
